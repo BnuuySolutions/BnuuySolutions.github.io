@@ -17,3 +17,7 @@ We're still working on it, but for now, feel free to check our software we devel
 - [Oculus Killer (discontinued)](https://github.com/BnuuySolutions/OculusKiller)
 
 ## Blog Posts
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%b %d, %Y" }}
+{% endfor %}
