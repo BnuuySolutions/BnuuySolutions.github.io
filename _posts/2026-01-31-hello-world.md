@@ -1,4 +1,5 @@
 ---
+layout: post
 date: 2026-01-31
 title: "Hello world!"
 description: 
