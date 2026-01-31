@@ -8,6 +8,7 @@ description: High-quality software for the masses.
 We're still working on it, but for now, feel free to check our software we develop and our blog posts.
 
 # Software
+- Iris Driver for Oculus Rift (coming soon)
 - Ignition (coming soon)
 - [PlayStation VR2 Toolkit](https://github.com/BnuuySolutions/PSVR2Toolkit)
 - [SetGfxMode](https://github.com/BnuuySolutions/SetGfxMode)
