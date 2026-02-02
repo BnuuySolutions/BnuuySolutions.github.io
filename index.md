@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bnuuy Solutions
-description: High-quality software for the masses.
+title: "Bnuuy Solutions"
+description: "High-quality software for the masses."
 ---
 
 # Welcome to our new website!
