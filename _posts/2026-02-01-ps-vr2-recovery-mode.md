@@ -9,7 +9,7 @@ author: whatdahopper
 I am not a security researcher, there are people who are far better than me that are more knowledgable than me on things such as exploiting bugs inside poorly written code. All of this is "for fun" and purely learning experience for myself and others.
 
 # The story
-So, for months, I had been attempting to research potential entry points for jailbreaking the PS VR2 for months, and found nothing. The context is that, I had been wanting to enable more features on PC, such as eye tracking camera frames and headset vibration, having these features on PC would open the door for so many features and possibilities, but alas, it seemed impossible.
+So, for months, I had been attempting to research potential entry points for jailbreaking the PS VR2, and found nothing. The context is that, I had been wanting to enable more features on PC, such as eye tracking camera frames and headset vibration, having these features on PC would open the door for so many features and possibilities, but alas, it seemed impossible.
 
 While we haven't achieved these goals just yet, this is one of the stepping stones we believe is required to get us to that goal.
 
