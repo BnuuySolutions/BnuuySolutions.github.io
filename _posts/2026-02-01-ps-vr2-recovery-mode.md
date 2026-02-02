@@ -57,7 +57,7 @@ Despite me telling [Supremium](https://github.com/RealSupremium) that it may not
 Against all odds, somehow, not only does the host not check the maximum USB interface request buffer length, neither did the device. I was blown away, my assumptions were wrong, and I can't blame my friends for being wrong either, this is some really odd behavior.
 
 # "Recovery mode"
-While researching other potential vulnerabilities with [ShinyQuagsire](https://github.com/shinyquagsire23) in November 2026, after we found this stack overflow exploit, we found that Shiny's PS VR2 ended up somehow running v01.10 (initial PS VR2 firmware) while bruteforcing stack overflow bytes, which we found extremely odd.
+While researching other potential vulnerabilities with [ShinyQuagsire](https://github.com/shinyquagsire23) in November 2025, after we found this stack overflow exploit, we found that Shiny's PS VR2 ended up somehow running v01.10 (initial PS VR2 firmware) while bruteforcing stack overflow bytes, which we found extremely odd.
 
 We decided to figure out how this happened, and it wasn't long after that [Supremium](https://github.com/RealSupremium) found out that if you constantly try sending a single byte stack overflow which crashes the device as soon as it is connected, right on the Sony logo, and then proceed to unplug and replug the device and, and do it a few times, that the device will enter a "recovery mode", which runs v01.10.
 
