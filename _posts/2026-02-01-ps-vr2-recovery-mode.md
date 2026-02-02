@@ -50,7 +50,7 @@ While contacting friends who I thought would be more versed in this field than I
 Regardless, I sent my findings off to [Supremium](https://github.com/RealSupremium) (PSVR2Toolkit developer) and told him that it probably wouldn't work from what my friends told me, I mean, *logically*, it made sense that the device and host would deny sending a large USB request that exceeds the maximum length of 64 bytes. Why should I have doubted that logic? Given that I had never worked with low-level USB communications, it made sense to me, at least.
 
 # Something amazing happened
-Despite me telling [Supremium](https://github.com/RealSupremium) that it may not work, he went ahead and attempted to implement the vulnerability, and sure enough, on Oct 19th, 2026, something amazing happened.
+Despite me telling [Supremium](https://github.com/RealSupremium) that it may not work, he went ahead and attempted to implement the vulnerability, and sure enough, on Oct 19th, 2025, something amazing happened.
 
 <img src="https://github.com/BnuuySolutions/BnuuySolutions.github.io/blob/main/images/something_amazing_happened.png?raw=true">
 
